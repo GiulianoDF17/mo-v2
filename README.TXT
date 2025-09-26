@@ -14,3 +14,6 @@ To start:
 Create a MusicOrganizer object on the object bench.
 Use its methods to add, remove, and play files.
 
+17. When we add the file that dont exist it gives us this, nothing it adds the file like its an actual file, weird.....
+18. It returns the files names a that I inputted in the addFile method.
+19.
